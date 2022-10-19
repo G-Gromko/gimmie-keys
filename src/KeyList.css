@@ -1,0 +1,56 @@
+.keyList__error {
+    color: aliceblue;
+}
+
+.keyList__prompt {
+    color: aliceblue;
+    font-size: 2rem;
+}
+
+.keyList__keyDetails {
+    max-width: 700px;
+    background-color: rgb(3, 22, 38);
+    border-radius: 5px;
+}
+
+.keyList__keyDetails > h2 {
+    color: aliceblue;
+    padding: 15px;
+    padding-top: 1px;
+    font-size: 1rem;
+    word-wrap: break-word;
+}
+
+.keyList__keyDetails > h3 {
+    color: aliceblue;
+    padding: 15px;
+    padding-bottom: 1px;
+}
+
+.keyList__buttonCopy {
+    font-size: 1rem;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: rgb(108, 108, 209);
+    color: aliceblue;
+    padding: 10px;
+    margin: 15px;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.keyList__buttonDownload {
+    font-size: 1rem;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: rgb(108, 108, 209);
+    color: aliceblue;
+    padding: 10px;
+    margin: 15px;
+    margin-top: 3px;
+    margin-left: 3px;
+}
